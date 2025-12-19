@@ -32,8 +32,8 @@ main:
   - title: "Outreach"
     url: /outreach/
 
-  - title: "Updates"
-    url: /updates/
+ # - title: "Updates"
+ #  url: /updates/
 
   - title: "Contact"
     url: /contact/
