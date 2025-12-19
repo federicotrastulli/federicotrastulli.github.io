@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 <iframe
   src="/files/CV - Federico Trastulli.pdf"
   width="100%"
