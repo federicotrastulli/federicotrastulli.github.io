@@ -26,9 +26,10 @@ author:
   avatar           : "1719964921051.jpg"
   name             : "Federico Trastulli"
   pronouns         : # example: "she/her"  
-  bio              : "Political Scientist, University of Verona & Italian Centre for Electoral Studies (CISE)"
+  bio              : "Political Scientist"
   location         : "Verona, Italy"
   employer         : "University of Verona"
+  employer         : "Italian Centre for Electoral Studies (CISE)"
   uri              : # URL
   email            : "ftrastulli@luiss.it" 
 
