@@ -1,9 +1,8 @@
 ---
 permalink: /
-title: ""
+title: Home         
+hide_title: true     
 author_profile: true
-seo:
-  title: Home  
 redirect_from: 
   - /about/
   - /about.html
