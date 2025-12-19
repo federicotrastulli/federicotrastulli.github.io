@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Federico Trastulli"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Political Scientist, University of Verona & Italian Centre for Electoral Studies (CISE)"
+  location         : "Verona, Italy"
+  employer         : "University of Verona"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ftrastulli@luiss.it" 
 
   # Academic websites
   academia         : # URL
