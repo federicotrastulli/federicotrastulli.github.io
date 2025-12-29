@@ -50,3 +50,70 @@
 .page__title {
   font-size: 1.65rem;
 }
+
+/* ===============================
+   Research page styling
+   =============================== */
+
+.research-list ol,
+.research-list ul {
+  margin-left: 1.4em;
+  padding-left: 0;
+}
+
+.research-list li {
+  margin-bottom: 0.45em;
+  line-height: 1.35;
+}
+
+/* Hanging indent */
+.research-list ol li {
+  padding-left: 1.6em;
+  text-indent: -1.6em;
+}
+
+/* Author highlight */
+.research-list .me {
+  font-weight: 600;
+  color: #111;
+}
+
+/* DOI links */
+.research-list a.doi {
+  font-size: 0.9em;
+  color: #666;
+  text-decoration: none;
+  margin-left: 0.35em;
+}
+
+.research-list a.doi:hover {
+  text-decoration: underline;
+  color: #333;
+}
+
+/* Badges */
+.badge {
+  font-size: 0.7em;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0.15em 0.45em;
+  margin-left: 0.4em;
+  border-radius: 3px;
+  vertical-align: middle;
+}
+
+/* Badge types */
+.badge.oa {
+  background: #e6f2ff;
+  color: #003366;
+}
+
+.badge.forthcoming {
+  background: #f3f3f3;
+  color: #555;
+}
+
+.badge.review {
+  background: #fff3cd;
+  color: #7a5c00;
+}
