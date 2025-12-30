@@ -82,7 +82,7 @@ My first single-authored monograph, "Varieties of Social Democracy in Western Eu
       </a>
     </h3>
     <p class="article-meta">
-      <strong>Trastulli, F.</strong> et al. &nbsp;|&nbsp; <em>Electoral Studies</em>, 2025
+      <strong>Trastulli, F.</strong> &nbsp;|&nbsp; <em>Electoral Studies</em>, 2025
     </p>
   </div>
 </div>
