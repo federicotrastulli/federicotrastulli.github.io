@@ -13,11 +13,11 @@ I'm a Postdoctoral Researcher at the University of Verona. I'm also a Research A
 
 I'm interested in left politics and how conflict over societal inequalities translates into both party strategies and political behaviour. I also work on other projects in the broader field of electoral studies. 
 
-My research appears in journals such as the [European Journal of Political Research](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/who-prioritises-what-determinants-and-measurement-of-voters-issue-prioritisation/E85C711B0698149F280FA000C70A5E66), [Perspectives on Politics](https://www.cambridge.org/core/journals/perspectives-on-politics/article/left-governmental-power-and-the-reduction-of-inequalities-in-western-europe-18712020/ED555D70627A4A3D57B2BD9B708C5F55), [Electoral Studies](https://www.sciencedirect.com/science/article/pii/S026137942500112X), and [Social Politics](https://academic.oup.com/sp/advance-article/doi/10.1093/sp/jxae035/7965949), among others. In 2024, I was the first recipient of the ["Mario Caciagli Award"](https://oaj.fupress.net/index.php/qoe/announcement/view/133) for Best Article published in the Italian Journal of Electoral Studies.
+My research appears in journals such as the *European Journal of Political Research*, *Perspectives on Politics*, *Electoral Studies*, and *Social Politics*, among others. In 2024, I was the first recipient of the "Mario Caciagli Award" for Best Article published in the Italian Journal of Electoral Studies.
 
 In November 2023, I completed my PhD in Political Science at LUISS Guido Carli. I was educated in the UK (MSc, LSE) and Italy (Bachelor's degree, Sapienza University of Rome).
 
-My first single-authored monograph, "Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences", is under contract with Palgrave Macmillan.
+My first single-authored monograph, *Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences*, is under contract with Palgrave Macmillan.
 
 ## Research Highlights
 
@@ -78,7 +78,7 @@ My first single-authored monograph, "Varieties of Social Democracy in Western Eu
     <h3 class="article-title">
       <a href="https://www.sciencedirect.com/science/article/pii/S026137942500112X"
          target="_blank" rel="noopener">
-        Electoral competition and inequality: Policy responsiveness in Western Europe
+        Left parties’ strategies and working-class vote in contemporary Western Europe (2002–2020)
       </a>
     </h3>
     <p class="article-meta">
@@ -100,7 +100,7 @@ My first single-authored monograph, "Varieties of Social Democracy in Western Eu
     <h3 class="article-title">
       <a href="https://academic.oup.com/sp/advance-article/doi/10.1093/sp/jxae035/7965949"
          target="_blank" rel="noopener">
-        Double‑edged Swords? Party Ideology, Activism, and Visibility in the Careers of Italian LGBT+ Politicians
+        Double‑edged swords? Party ideology, activism, and visibility in the careers of Italian LGBT+ politicians
       </a>
     </h3>
     <p class="article-meta">
