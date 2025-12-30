@@ -13,11 +13,11 @@ I'm a Postdoctoral Researcher at the University of Verona. I'm also a Research A
 
 I'm interested in left politics and how conflict over societal inequalities translates into both party strategies and political behaviour. I also work on other projects in the broader field of electoral studies. 
 
-My research appears in journals such as the *European Journal of Political Research*, *Perspectives on Politics*, *Electoral Studies*, and *Social Politics*, among others. In 2024, I was the first recipient of the "Mario Caciagli Award" for Best Article published in the Italian Journal of Electoral Studies.
+My research appears in journals such as the European Journal of Political Research, Perspectives on Politics, Electoral Studies, and Social Politics, among others. In 2024, I was the first recipient of the "Mario Caciagli Award" for Best Article published in the Italian Journal of Electoral Studies.
 
 In November 2023, I completed my PhD in Political Science at LUISS Guido Carli. I was educated in the UK (MSc, LSE) and Italy (Bachelor's degree, Sapienza University of Rome).
 
-My first single-authored monograph, *Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences*, is under contract with Palgrave Macmillan.
+My first single-authored monograph, "Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences", is under contract with Palgrave Macmillan.
 
 ## Research Highlights
 
