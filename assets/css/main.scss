@@ -128,10 +128,6 @@
   border-bottom: 1px solid #e5e5e5;
 }
 
-.article-card:last-child {
-  border-bottom: none;
-}
-
 .article-image {
   width: 140px;
   height: auto;
@@ -171,8 +167,21 @@
   text-align: right;
 }
 
-/* Remove divider line before new section headings */
-.article-card + h2 {
-  border-top: none;
+/* Remove bottom border of the last article-card in each section */
+.article-card {
+  display: flex;
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Remove border if the article-card is immediately followed by an h2 */
+.article-card:has(+ h2) {
+  border-bottom: none;
+}
+
+/* Optional spacing before next section */
+.article-card:has(+ h2) + h2 {
   margin-top: 2.5rem;
 }
