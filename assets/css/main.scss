@@ -174,7 +174,7 @@
 
 /* Optional spacing before next section */
 .article-card:has(+ h2) + h2 {
-  margin-top: 1.25rem; /* Adjust this to control spacing between subheadings */
+  margin-top: 1.0rem; /* Adjust this to control spacing between subheadings */
 }
 
 /* Remove bottom border of the last article-card on the page */
