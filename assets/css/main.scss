@@ -170,3 +170,9 @@
 .article-card.right .article-meta {
   text-align: right;
 }
+
+/* Remove divider line before new section headings */
+.article-card + h2 {
+  border-top: none;
+  margin-top: 2.5rem;
+}
