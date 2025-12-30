@@ -167,27 +167,18 @@
   text-align: right;
 }
 
-/* Remove bottom border of the last article-card in each section */
-.article-card {
-  display: flex;
-  gap: 1.25rem;
-  margin: 1.5rem 0;
-  padding-bottom: 1.25rem;
-  border-bottom: 1px solid #e5e5e5;
-}
-
-/* Remove border if the article-card is immediately followed by an h2 */
+/* Remove bottom border of cards immediately before a new section */
 .article-card:has(+ h2) {
   border-bottom: none;
 }
 
-/* Remove divider line at the end of last heading */
-.article-card + h2 {
-  border-top: none;
-  margin-top: 1.25rem;
-}
-
 /* Optional spacing before next section */
 .article-card:has(+ h2) + h2 {
-  margin-top: 1.25rem;
+  margin-top: 1.25rem; /* Adjust this to control spacing between subheadings */
+}
+
+/* Remove bottom border of the last article-card on the page */
+.article-card:last-of-type {
+  border-bottom: none;
+}er-bottom: none;
 }
