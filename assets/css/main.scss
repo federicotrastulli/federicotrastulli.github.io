@@ -184,10 +184,10 @@
 /* Remove divider line at the end of last heading */
 .article-card + h2 {
   border-top: none;
-  margin-top: 2.5rem;
+  margin-top: 1.25rem;
 }
 
 /* Optional spacing before next section */
 .article-card:has(+ h2) + h2 {
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
 }
