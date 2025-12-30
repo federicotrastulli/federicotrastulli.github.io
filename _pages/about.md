@@ -60,7 +60,7 @@ My first single-authored monograph, *Varieties of Social Democracy in Western Eu
       </a>
     </h3>
     <p class="article-meta">
-      Emanuele, V. &amp; <strong>Trastulli, F.</strong> &nbsp;|&nbsp; <em>Perspectives on Politics</em>, 2024
+      Emanuele, V. &amp; <strong>Trastulli, F.</strong> &nbsp;|&nbsp; <em>Perspectives on Politics</em>, 2025
     </p>
   </div>
 </div>
