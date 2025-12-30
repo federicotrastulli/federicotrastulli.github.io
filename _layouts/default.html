@@ -16,6 +16,18 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+<!-- LANGUAGE TOGGLE -->
+<div class="language-toggle" style="position:absolute; top:1rem; right:1rem; z-index:1000;">
+  {% assign current_url = page.url %}
+  
+    <!-- Current page is English -->
+      <a href="{{ it_url }}" title="Italiano" style="text-decoration:none; font-size:1.5rem;">🇮🇹</a>
+      <!-- fallback to Italian homepage -->
+      <a href="/it/" title="Italiano" style="text-decoration:none; font-size:1.5rem;">🇮🇹</a>
+    {% endif %}
+  {% endif %}
+</div>
+
     {{ content }}
 
     <div class="page__footer">
