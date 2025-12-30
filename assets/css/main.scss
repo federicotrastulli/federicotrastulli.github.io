@@ -115,3 +115,58 @@
   background: #fff3cd;
   color: #7a5c00;
 }
+
+/* ===============================
+   Outreach article previews
+   =============================== */
+
+.article-card {
+  display: flex;
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.article-card:last-child {
+  border-bottom: none;
+}
+
+.article-image {
+  width: 140px;
+  height: auto;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.article-content {
+  flex: 1;
+}
+
+.article-title {
+  font-size: 1.15rem;
+  margin: 0 0 0.35rem 0;
+}
+
+.article-title a {
+  text-decoration: none;
+}
+
+.article-title a:hover {
+  text-decoration: underline;
+}
+
+.article-meta {
+  font-size: 0.85rem;
+  color: #666;
+}
+
+/* Alternating alignment */
+.article-card.right {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+
+.article-card.right .article-meta {
+  text-align: right;
+}
