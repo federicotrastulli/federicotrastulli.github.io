@@ -38,7 +38,7 @@ My first single-authored monograph, "Varieties of Social Democracy in Western Eu
       </a>
     </h3>
     <p class="article-meta">
-      Off, G. &amp; <strong>Trastulli, F.</strong> &nbsp;|&nbsp; <em>European Journal of Political Research</em>, 2025
+      Off, G. &amp; <strong>Trastulli, F.</strong> &nbsp;|&nbsp; <em>European Journal of Political Research</em>, 2026
     </p>
   </div>
 </div>
