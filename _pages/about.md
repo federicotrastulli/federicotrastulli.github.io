@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to my webpage!
 
-I'm a Postdoctoral Researcher at the [University of Verona](https://www.dsu.univr.it/?ent=persona&id=79634&lang=it). I'm also a Research Affiliate of the [Italian Centre for Electoral Studies (Centro Italiano Studi Elettorali – CISE)](https://cise.luiss.it/chi-siamo/le-persone/) and an Adjunct Professor at the [Department of Political Science, LUISS Guido Carli](https://www.luiss.it/faculty/354453). Previously, I held visiting positions at KU Leuven's "Voting & Democracy" research group (2025) and Sciences Po's CEVIPOF (2022).
+I'm a Postdoctoral Researcher (Contrattista di ricerca) at [LUISS Guido Carli](https://www.luiss.it/), where I'm also a Research Affiliate of the [Italian Centre for Electoral Studies (Centro Italiano Studi Elettorali – CISE)](https://cise.luiss.it/chi-siamo/le-persone/) and an Adjunct Professor at the [Department of Political Science, LUISS Guido Carli](https://www.luiss.it/faculty/354453). Previously, I held postdoc positions at the University of Verona (2023-2026), as well as visiting positions at KU Leuven's "Voting & Democracy" research group (2025) and Sciences Po's CEVIPOF (2022).
 
 I specialise in left politics, group-based politics, and issue politics. I'm especially interested in how conflict over societal inequalities translates into both party strategies and political behaviour along social group lines. I also work on other projects in the broader field of electoral studies. 
 
