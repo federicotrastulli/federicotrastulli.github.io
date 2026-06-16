@@ -11,13 +11,15 @@ redirect_from:
 
 I'm a Postdoctoral Researcher (Contrattista di ricerca) at [LUISS Guido Carli](https://www.luiss.it/), where I'm also a Research Affiliate of the [Italian Centre for Electoral Studies (CISE)](https://cise.luiss.it/chi-siamo/le-persone/) and an Adjunct Professor at the [Department of Political Science, LUISS Guido Carli](https://www.luiss.it/faculty/354453). Previously, I held postdoc positions at the University of Verona (2023-2026), as well as visiting positions at KU Leuven's "Voting & Democracy" research group (2025) and Sciences Po's CEVIPOF (2022).
 
+Having been awarded an [FWO Junior Postdoctoral Fellowship](https://www.fwo.be/en/results-outreach/announcement-of-results/275-new-postdoctoral-fellowships-awarded/), starting 1 October 2026 I will be based at KU Leuven's ["Voting & Democracy"](https://research.kuleuven.be/portal/en/unit/58127343) research group, where I'll carry out my 3-year project on the partisan and non-partisan mechanisms through which citizens who possess multiple cross-pressuring group-based identities resolve these tensions in making a voting decision.
+
 I specialise in left politics, group-based politics, and issue politics. I'm especially interested in how conflict over societal inequalities translates into both party strategies and political behaviour along social group lines. I also work on other projects in the broader field of electoral studies. 
 
 My research appears in journals such as the [European Journal of Political Research](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/who-prioritises-what-determinants-and-measurement-of-voters-issue-prioritisation/E85C711B0698149F280FA000C70A5E66), [Perspectives on Politics](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/who-prioritises-what-determinants-and-measurement-of-voters-issue-prioritisation/E85C711B0698149F280FA000C70A5E66), [Electoral Studies](https://www.sciencedirect.com/science/article/pii/S026137942500112X), and [Social Politics](https://academic.oup.com/sp/advance-article/doi/10.1093/sp/jxae035/7965949), among others. In 2024, I was the first recipient of the ["Mario Caciagli Award"](https://oaj.fupress.net/index.php/qoe/announcement/view/133) for Best Article published in the Italian Journal of Electoral Studies.
 
 In November 2023, I completed my PhD in Political Science at LUISS Guido Carli. Earlier, I studied in the UK (MSc, LSE) and Italy (Bachelor's degree, Sapienza University of Rome).
 
-My first single-authored monograph, "Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences", is forthcoming with Palgrave Macmillan.
+[My first single-authored monograph](https://federicotrastulli.github.io/vosd/), "Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences" (Palgrave Macmillan), will be out in Summer 2026.
 
 ## Research Highlights
 
