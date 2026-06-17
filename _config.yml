@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "air_dark" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Federico Trastulli"
 title_separator          : "-"
 name                     : &name "Federico Trastulli"
