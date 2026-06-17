@@ -2,6 +2,19 @@
 
 <!-- start custom head snippets -->
 
+<script>
+  // Apply theme before page renders to avoid flash
+  (function() {
+    var stored = localStorage.getItem('theme');
+    if (stored) {
+      document.documentElement.setAttribute('data-theme', stored);
+    } else {
+      // Default to dark if no preference stored
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  })();
+</script>
+
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
@@ -38,16 +51,3 @@
 <meta property="og:title" content="Federico Trastulli">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://federicotrastulli.github.io">
-
-<script>
-  // Apply theme before page renders to avoid flash
-  (function() {
-    var stored = localStorage.getItem('theme');
-    if (stored) {
-      document.documentElement.setAttribute('data-theme', stored);
-    } else {
-      // Default to dark if no preference stored
-      document.documentElement.setAttribute('data-theme', 'dark');
-    }
-  })();
-</script>
