@@ -19,7 +19,7 @@ My research appears in journals such as the [European Journal of Political Resea
 
 In November 2023, I completed my PhD in Political Science at LUISS Guido Carli. Earlier, I studied in the UK (MSc, LSE) and Italy (Bachelor's degree, Sapienza University of Rome).
 
-[My first single-authored monograph](https://federicotrastulli.github.io/vosd/), "Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences" (Palgrave Macmillan), will be out in Summer 2026.
+[My first single-authored monograph](https://federicotrastulli.github.io/vosd/), "Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences" (Palgrave Macmillan), [is just out](https://link.springer.com/book/10.1007/978-3-032-26275-2)!
 
 ## Research Highlights
 
