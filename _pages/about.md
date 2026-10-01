@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to my webpage!
 
-I'm an incoming [FWO Junior Postdoctoral Fellow](https://www.fwo.be/en/results-outreach/announcement-of-results/275-new-postdoctoral-fellowships-awarded/) (Oct 26). At KU Leuven's ["Voting & Democracy"](https://research.kuleuven.be/portal/en/unit/58127343) research group, by introducing the concept of "cross-pressure resolution", my 3-year project will analyse the individual-level mechanisms through which citizens with multiple cross-pressuring group-based identities resolve these tensions in making a voting decision.
+I'm an [FWO Junior Postdoctoral Fellow](https://www.fwo.be/en/results-outreach/announcement-of-results/275-new-postdoctoral-fellowships-awarded/). At KU Leuven's ["Voting & Democracy"](https://research.kuleuven.be/portal/en/unit/58127343) research group, by introducing the concept of "cross-pressure resolution", my 3-year project will analyse the individual-level mechanisms through which citizens with multiple cross-pressuring group-based identities resolve these tensions in making a voting decision.
 
 I'm also a Research Affiliate of the [Italian Centre for Electoral Studies (CISE)](https://cise.luiss.it/chi-siamo/le-persone/) and an Adjunct Professor at the [Department of Political Science, LUISS Guido Carli](https://www.luiss.it/faculty/354453). Previously, I held postdoc positions at LUISS (2026) and the University of Verona (2023-2026), as well as visiting positions at KU Leuven's "Voting & Democracy" research group (2025) and Sciences Po's CEVIPOF (2022).
 
