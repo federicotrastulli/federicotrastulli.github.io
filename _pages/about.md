@@ -21,7 +21,7 @@ In November 2023, I completed my PhD in Political Science at LUISS Guido Carli. 
 
 [My first single-authored monograph](https://federicotrastulli.github.io/vosd/), "Varieties of Social Democracy in Western Europe: The Impact of External Constraints on Ideological Differences" (Palgrave Macmillan), [is just out](https://link.springer.com/book/10.1007/978-3-032-26275-2)!
 
-<sub>(Why the <a><img src="https://federicotrastulli.github.io/images/marmore.png" height="7" alt="waterfall icon"></a> <b>waterfall icon</b>? It's a nod to my beloved hometown, Terni, and its iconic <a href="https://turismo.comune.terni.it/sites/default/files/styles/original_webp/public/2023-11/cascata16.jpg.webp?itok=UVF7obnE">Cascata delle Marmore</a>)</sub>
+<sub>(Why the <img src="https://federicotrastulli.github.io/images/marmore.png" height="7" alt="waterfall icon"> <b>waterfall icon</b>? It's a nod to my beloved hometown, Terni, and its iconic <a href="https://turismo.comune.terni.it/sites/default/files/styles/original_webp/public/2023-11/cascata16.jpg.webp?itok=UVF7obnE">Cascata delle Marmore</a>)</sub>
 
 ## Research Highlights
 
